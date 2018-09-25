@@ -1,3 +1,7 @@
+# Audio
+vendor/lib64/soundfx/libvolumelistener.so:lib64/soundfx/libvolumelistener.so
+vendor/lib/soundfx/libvolumelistener.so:lib/soundfx/libvolumelistener.so
+
 # Power-off alarms
 etc/permissions/vendor-qti-hardware-alarm.xml
 
